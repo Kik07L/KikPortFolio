@@ -1,3 +1,4 @@
+// This script is optional and can be used for interactivity
 document.addEventListener('DOMContentLoaded', () => {
-    // Add any interactive JavaScript here if needed
+    console.log('Document is ready!');
 });
